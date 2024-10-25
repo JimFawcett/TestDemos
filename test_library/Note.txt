@@ -1,4 +1,4 @@
-To add file to examples directory
+To add file to examples directory:
 - right-click on examples dir in Explorer view
 - supply file name test1.rs
 
