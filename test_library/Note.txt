@@ -1,0 +1,5 @@
+To add file to examples directory
+- right-click on examples dir in Explorer view
+- supply file name test1.rs
+
+That creates file with utf-8 text protocol
